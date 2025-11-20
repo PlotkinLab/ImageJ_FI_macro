@@ -1,3 +1,5 @@
+#Description
+
 This macro uses the ImageJ ColonyArea plugin to determine the number of focus forming units (FFU).
 
 See the following paper for details (in Methods in Molecular Biology (Springer Nature), Virus-like Particles (2026) )
