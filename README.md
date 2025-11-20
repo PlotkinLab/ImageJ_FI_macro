@@ -1,4 +1,4 @@
-#Description
+# Description
 
 This macro uses the ImageJ ColonyArea plugin to determine the number of focus forming units (FFU).
 
